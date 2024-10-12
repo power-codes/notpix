@@ -1,16 +1,16 @@
 {
-  "data":[
+  "data": [
     {
       "cordinates": [
         {
           "start": [810, 121],
           "end": [937, 166]
-        },
+        }
       ],
       "color": "#493ac1"
     },
     {
-        "cordinates": [
+      "cordinates": [
         {
           "start": [810, 167],
           "end": [937, 207]
@@ -19,7 +19,7 @@
       "color": "#bf4300"
     },
     {
-        "cordinates": [
+      "cordinates": [
         {
           "start": [72, 676],
           "end": [199, 697]
